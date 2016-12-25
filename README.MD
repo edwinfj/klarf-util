@@ -8,3 +8,7 @@ This repo serves as a collection of the utilities I created for manipulating kla
 
 ===
 requirements: python3.5, numpy
+
+===
+copyright (c) by Jing Fang and KLA-Tencor Corp.
+All rights reserved.
