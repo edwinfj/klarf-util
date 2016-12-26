@@ -10,6 +10,6 @@ This repo serves as a collection of the utilities I created for manipulating kla
 requirements: python3.5, numpy
 
 ===
-Copyright (c) by Jing Fang and KLA-Tencor Corp.
+Copyright (c) 2016 by Jing Fang and KLA-Tencor Corp.
 
 All rights reserved.
